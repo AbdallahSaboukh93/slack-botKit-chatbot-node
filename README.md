@@ -11,7 +11,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AbdallahSaboukh93/slack-botKit-chatbot-node](/).git
+   git clone https://github.com/AbdallahSaboukh93/slack-botKit-chatbot-node.git
    cd slack-bot
    ```
 
