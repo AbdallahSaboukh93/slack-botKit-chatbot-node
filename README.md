@@ -31,7 +31,13 @@
    - Set up your Slack App with appropriate scopes.
    - Add the generated `ngrok` URL to Slack’s Event Subscriptions.
 
-5. **Run the Bot:**
+5. **Must update .evn with this values:**
+   ```bash
+     SLACK_SIGNING_SECRET=signing secret 
+     SLACK_BOT_TOKEN=token
+    ```
+
+7. **Run the Bot:**
    ```bash
    node index.js
    ```
